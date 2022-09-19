@@ -1,0 +1,22 @@
+	LINGUAGEM PYTHON
+
+Semelhanças com outras linguagens:
+ - Estruturas de repetição e controle (for, if, while)
+ - Orientação a objetos
+ - Linguagem imperativa
+ - Definição de funções
+ - Acesso a banco de dados
+ - Importaçao de bibliotecas
+ 
+ 
+ Diferenças de outras linguagens:
+  - Não utiliza ponto e vírgula
+  - Obrigatória a identação de código
+  - Definição de funções utilizando o prefixo "def"
+  - Não necessita a especificação do tipo de variáveis
+  
+ 
+ Observações gerais: 
+
+O uso de funções assíncronas tem se a capacidade de atender a múltiplas requisições simultaneamente de forma concorrente ou em paralelo.
+Na opinião do grupo, a linguagem Python pode ser tratada como acessível e de programação direta, abstraindo detalhes de tipo de variáveis.
